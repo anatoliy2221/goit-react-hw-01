@@ -9,7 +9,7 @@ th {
 }
 
 .tableHead {
-    background-color: rgb(61, 36, 6);
+    background-color: #3d2406;
     color: white;
 }
 
@@ -18,7 +18,7 @@ th {
 }
 
 .tableBody:nth-child(odd) {
-    background-color: white;
+    background-color: #ffffff;
 }
 
 .type::first-letter {
