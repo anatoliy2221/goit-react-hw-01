@@ -10,9 +10,9 @@
 }
 
 .online {
-    color: rgb(26, 178, 33);
+    color: #1ab221;
 }
 
 .offline {
-    color: red;
+    color: #ff0000;
 }

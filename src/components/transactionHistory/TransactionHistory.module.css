@@ -5,12 +5,12 @@
 
 td,
 th {
-    border: 2px solid #000;
+    border: 2px solid #000000;
 }
 
 .tableHead {
     background-color: #3d2406;
-    color: white;
+    color: #ffffff;
 }
 
 .tableBody:nth-child(even) {
